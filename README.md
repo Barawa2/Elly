@@ -12,5 +12,7 @@ The SQL skills used in this project:
   - Data partitioning
   - Casting data types
   - CTEs
+  - Grouping data
+    
    
 
