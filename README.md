@@ -17,11 +17,7 @@ The SQL skills used in this project:
 ## Analysis 
 The following insights were uncovered from the dataset:
 1. Top five products for each category based on highest total sales.
-  
-
-
-
-  
+<img src= "![SQL 1](https://github.com/user-attachments/assets/80555924-ce10-434a-a0fd-f4e647f9d69c)" width="400" height="250" />
 
 
     
