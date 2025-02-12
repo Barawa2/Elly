@@ -15,6 +15,8 @@ The SQL skills used in this project:
   - Grouping data
   - Generate Rank
 ## Analysis 
+The following insights were uncovered from the dataset
+
 
     
    
