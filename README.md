@@ -15,7 +15,8 @@ The SQL skills used in this project:
   - Grouping data
   - Generate Rank
 ## Analysis 
-The following insights were uncovered from the dataset
+The following insights were uncovered from the dataset:
+1. Top five products for each category based on highest total sales. 
 
 
   
