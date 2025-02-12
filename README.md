@@ -13,6 +13,7 @@ The SQL skills used in this project:
   - Casting data types
   - CTEs
   - Grouping data
+  - Generate Rank 
     
    
 
