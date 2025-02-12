@@ -17,6 +17,8 @@ The SQL skills used in this project:
 ## Analysis 
 The following insights were uncovered from the dataset
 
+  
+
 
     
    
