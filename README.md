@@ -16,10 +16,17 @@ The SQL skills used in this project:
   - Generate Rank
 ## Analysis 
 The following insights were uncovered from the dataset:
-1. Top five products for each category based on highest total sales.
-<img src= "![SQL 1](https://github.com/user-attachments/assets/80555924-ce10-434a-a0fd-f4e647f9d69c)" width="400" height="250" />
-
-
-    
+#### 1. Top five products for each category based on highest total sales.
    
+<img src="https://github.com/user-attachments/assets/b52af390-8a10-452c-951f-1f8badec536d" alt="Description" width="400" height="300"> 
+
+<img src="https://github.com/user-attachments/assets/0db48276-2369-41c2-8cbf-d1fb3956a547" alt="Description" width="500" height="250"> 
+
+#### 2. Calculate quantity for orders with missing values in quantity column by determining the unit price for each product_id.
+
+<img src="https://github.com/user-attachments/assets/231a7fdd-13de-41da-b399-b1b7fdf8d099" width="400" height="300"> 
+
+<img src="https://github.com/user-attachments/assets/47e41144-dfc7-4c9f-869f-f144236505bc" width="500" height="150"> 
+
+
 
